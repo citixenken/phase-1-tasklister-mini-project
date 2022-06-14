@@ -14,7 +14,7 @@ button {
   font-size: 7px;
 }
 
-#main-content {
+#main_content {
   position: relative;
   display: flex;
   justify-content: center;
@@ -34,4 +34,8 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+#tasks {
+  text-align: left;
 }
